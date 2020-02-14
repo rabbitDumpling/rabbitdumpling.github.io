@@ -1,0 +1,25 @@
+title: Minimalism
+owner: Sabrael Carroll
+email: scarroll@rabbitdumpling.net
+description: The personal blog of Sabrael Carroll and all her projects. Minimalism is focusing on doing more with less.
+copyright: 2019-2020
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rabbitdumpling.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+language: en
+twitter_username: rabbitdumpling
+github_username: rabbitdumpling
+disqus_username: 
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+permalink: /:year/:month/:title/
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+excerpt_separator: <!--more-->
