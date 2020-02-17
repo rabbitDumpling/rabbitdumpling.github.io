@@ -6,7 +6,7 @@
 		{% include logo.html %}
 		{% include nav.html %}
 		<div id="content-left">
-      <h2>{{page.category}}</h2>
+      <h2 id="category">{{page.category | replace: "_", "&nbsp"}}</h2>
       {% assign content = page.content | strip_newlines %}
       {% if content != ""  %}
         {{content}}

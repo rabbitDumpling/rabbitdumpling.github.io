@@ -98,6 +98,10 @@ a:hover	{
 	color: grey;
 }
 
+#category {
+	text-transform: capitalize;
+}
+
 #categories a, #categories a:link, #categories a:visited {
 	text-decoration: none;
 	padding: 0.1em 0.5em 0.1em 0.5em;
@@ -105,6 +109,10 @@ a:hover	{
 
 #categories a:hover {
 	text-decoration: underline;
+}
+
+#author {
+	text-align: right;
 }
 
 @media screen and (max-width: 850px) {
