@@ -18,8 +18,11 @@ permalink: /:year/:month/:title/
 
 gems:
   - jekyll-feed
+  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/bundle
+  
 excerpt_separator: <!--more-->
