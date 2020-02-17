@@ -69,7 +69,7 @@ GEM
     tzinfo-data (1.2019.3)
       tzinfo (>= 1.0.0)
     wdm (0.1.1)
-    yell (2.2.1)
+    yell (2.2.2)
 
 PLATFORMS
   x64-mingw32
