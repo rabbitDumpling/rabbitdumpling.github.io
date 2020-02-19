@@ -10,7 +10,7 @@ Last Updated: 05 February 2020
 ### Final Fantasy I
 * ~~Fighter~~
 * ~~Black Mage~~
-* ~~Thief~~
+* **~~Thief~~**
 * ~~Red Mage~~
 
 ### Final Fantasy II
@@ -20,7 +20,7 @@ Last Updated: 05 February 2020
 * ~~Leon~~
 
 ### Final Fantasy III
-* ~~Luneth~~
+* **~~Luneth~~**
 * ~~Arc~~
 * ~~Refia~~
 * ~~Ingus~~
@@ -28,10 +28,10 @@ Last Updated: 05 February 2020
 ### Final Fantasy IV[^1]
 * ~~Cecil~~
 * Kain
-* Rosa
+* ~~Rosa~~
 * ~~Rydia~~
 * Tellah
-* Edward
+* ~~Edward~~
 * Yang
 * ~~Palom~~
 * ~~Parom~~
