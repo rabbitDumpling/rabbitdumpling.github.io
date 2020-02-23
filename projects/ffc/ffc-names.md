@@ -87,7 +87,7 @@ Last Updated: 05 February 2020
 * ~~Carbuncle~~
 * Leviathan
 * Pandemona
-* Cerberus
+* ~~Cerberus~~
 * ~~Alexander~~
 * Doomtrain
 * Bahamut
