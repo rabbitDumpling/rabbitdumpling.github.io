@@ -16,7 +16,7 @@ theme: minima
 
 permalink: /:year/:month/:title/
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
