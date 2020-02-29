@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Final Fantasy (February Update)"
+title:  "Final Fantasy I (After)"
 author: SDC
-date:   2020-02-28
+date:   2020-02-02
 categories: 
     - final_fantasy_(in)complete
 comments: false
