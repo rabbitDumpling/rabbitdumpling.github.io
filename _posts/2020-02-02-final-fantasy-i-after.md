@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Final Fantasy I (After)"
+title:  "Final Fantasy I, After"
 author: SDC
 date:   2020-02-02
 categories: 
