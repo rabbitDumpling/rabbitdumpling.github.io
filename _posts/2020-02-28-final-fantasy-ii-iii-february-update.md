@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Final Fantasy (February Update)"
+title:  "Final Fantasy II & III (February Update)"
 author: SDC
 date:   2020-02-28
 categories: 
@@ -27,4 +27,3 @@ You have been chosen by destiny, as an orphan in a small town, obviously it is y
 This time the issue was a software one. In order to ease the eyes of the audience, I made use of a visual mod that cleaned up the menus to appear more like a traditional final Fantasy UI (as opposed to one designed for a touch screen). I also opted for a balancing patch to make life easier and to avoid the excessive grinding Final Fantasy III is known for. On February 27th, 2020, Square decided to release a patch (and patch is a strong word for it) to attempt to do the same things mine did. Only it does not work, it is horribly broken, and apparently crashes the game whenever I open the Job menu. Thanks for that Square.
 
 So when it comes to mechanics, I will be honest, Final Fantasy 3 fell a little flat. Jobs have little impact on characters besides stat growth as they level up
-
