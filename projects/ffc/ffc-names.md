@@ -37,7 +37,7 @@ Last Updated: 05 February 2020
 * ~~Parom~~
 * ~~Cid~~
 * Edge
-* FuSoYa
+* ~~FuSoYa~~
 
 ### Final Fantasy V
 * ~~Bartz~~
