@@ -70,7 +70,7 @@ Last Updated: 05 February 2020
 * ~~Red XIII~~
 * ~~Cait Sith~~
 * ~~Cid~~
-* Yuffie
+* ~~Yuffie~~
 * ~~Vincent~~
 
 ### Final Fantasy VIII
