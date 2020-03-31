@@ -8,36 +8,36 @@ author: SDC
 Last Updated: 05 February 2020
 
 ### Final Fantasy I
-* ~~Fighter~~
-* ~~Black Mage~~
-* **~~Thief~~**
-* ~~Red Mage~~
+* ~~Fighter~~ Sarina
+* ~~Black Mage~~ Neko
+* **~~Thief~~** Snake
+* ~~Red Mage~~ Sorcha
 
 ### Final Fantasy II
-* ~~Firion~~
-* ~~Maria~~
-* ~~Guy~~
-* ~~Leon~~
+* ~~Firion~~ FRON
+* ~~Maria~~ Sorcha
+* ~~Guy~~ Quia
+* ~~Leon~~ Stridr
 
 ### Final Fantasy III
-* **~~Luneth~~**
-* ~~Arc~~
-* ~~Refia~~
-* ~~Ingus~~
+* **~~Luneth~~** Rabbit
+* ~~Arc~~ espie
+* ~~Refia~~ Sarina
+* ~~Ingus~~ Dio
 
 ### Final Fantasy IV[^1]
-* ~~Cecil~~
-* Kain
-* ~~Rosa~~
-* ~~Rydia~~
-* Tellah
-* ~~Edward~~
-* Yang
-* ~~Palom~~
-* ~~Parom~~
-* ~~Cid~~
-* Edge
-* ~~FuSoYa~~
+* ~~Cecil~~ Sorcil
+* ~~**Kain**~~ Mallow
+* ~~Rosa~~ MLady
+* ~~Rydia~~ Rydia
+* ~~**Tellah**~~ Oooold
+* ~~Edward~~ Choco
+* ~~**Yang**~~ Flonaz
+* ~~Palom~~ Crea
+* ~~Parom~~ Prea
+* ~~Cid~~ DADDY
+* ~~**Edge**~~ Cliff
+* ~~FuSoYa~~ OldFrt
 
 ### Final Fantasy V
 * ~~Bartz~~
