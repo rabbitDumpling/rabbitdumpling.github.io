@@ -78,7 +78,7 @@ Last Updated: 05 February 2020
 * Rinoa
 * ~~Angelo~~
 * Griever
-* Quezacotl
+* ~~Quezacotl~~
 * Shiva
 * Ifrit
 * Siren
@@ -86,7 +86,7 @@ Last Updated: 05 February 2020
 * Diablos
 * ~~Carbuncle~~
 * Leviathan
-* Pandemona
+* ~~Pandemona~~
 * ~~Cerberus~~
 * ~~Alexander~~
 * Doomtrain
@@ -97,9 +97,9 @@ Last Updated: 05 February 2020
 
 ### Final Fantasy IX
 * ~~Zidane~~
-* Vivi
+* ~~Vivi~~
 * ~~Freya~~
-* Amarant
+* ~~Amarant~~
 * Garnet
 * ~~Steiner~~
 * ~~Eiko~~
