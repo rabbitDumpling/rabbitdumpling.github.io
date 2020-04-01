@@ -59,13 +59,13 @@ Last Updated: 05 February 2020
 * Strago
 * Relm
 * ~~Mog~~
-* Gogo
+* ~~Gogo~~
 * Umaro
 
 ### Final Fantasy VII
 * Cloud
 * Barret
-* Tifa
+* ~~Tifa~~
 * Aerith
 * ~~Red XIII~~
 * ~~Cait Sith~~
@@ -96,14 +96,14 @@ Last Updated: 05 February 2020
 * Eden
 
 ### Final Fantasy IX
-* Zidane
+* ~~Zidane~~
 * Vivi
 * ~~Freya~~
 * Amarant
-* ~~Garnet~~
-* Steiner
-* Eiko
-* Quina
+* Garnet
+* ~~Steiner~~
+* ~~Eiko~~
+* ~~Quina~~
 
 ### Final Fantasy X
 * ~~Tidus~~
