@@ -91,7 +91,7 @@ Last Updated: 05 February 2020
 * ~~Alexander~~
 * Doomtrain
 * Bahamut
-* Jumbo Cactaur
+* ~~Jumbo Cactaur~~
 * Tonberry King
 * Eden
 
@@ -114,6 +114,6 @@ Last Updated: 05 February 2020
 * ~~Bahamut~~
 * Yojimbo
 * Anima
-* The Magus Sisters
+* ~~The Magus Sisters~~
 
 [^1]: Custom names are only available in the 2D version of Final Fantasy IV.
