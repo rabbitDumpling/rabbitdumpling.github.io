@@ -82,7 +82,7 @@ Last Updated: 05 February 2020
 * Shiva
 * Ifrit
 * Siren
-* The Brothers
+* ~~The Brothers~~
 * Diablos
 * ~~Carbuncle~~
 * Leviathan
