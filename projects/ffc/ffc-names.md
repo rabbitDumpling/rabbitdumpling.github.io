@@ -40,11 +40,8 @@ Last Updated: 05 February 2020
 * ~~FuSoYa~~ OldFrt
 
 ### Final Fantasy V
-* ~~Bartz~~
-* ~~Lenna~~
-* ~~Galuf~~
-* ~~Faris~~
-* Krile 
+* ~~Bartz~~ RyQuEl Seymour Butz
+
 
 ### Final Fantasy VI
 * ~~Terra~~
@@ -66,7 +63,7 @@ Last Updated: 05 February 2020
 * Cloud
 * Barret
 * ~~Tifa~~
-* Aerith
+* ~~Aerith~~
 * ~~Red XIII~~
 * ~~Cait Sith~~
 * ~~Cid~~
@@ -92,7 +89,7 @@ Last Updated: 05 February 2020
 * Doomtrain
 * Bahamut
 * ~~Jumbo Cactaur~~
-* Tonberry King
+* ~~Tonberry King~~
 * Eden
 
 ### Final Fantasy IX
