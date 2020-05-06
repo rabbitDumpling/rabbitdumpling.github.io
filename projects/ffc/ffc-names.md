@@ -47,7 +47,7 @@ Last Updated: 05 February 2020
 * ~~Terra~~
 * ~~Locke~~
 * Celes
-* Edgard
+* Edgar
 * ~~Sabin~~
 * ~~Cyan~~
 * ~~Shadow~~
@@ -57,7 +57,7 @@ Last Updated: 05 February 2020
 * Relm
 * ~~Mog~~
 * ~~Gogo~~
-* Umaro
+* ~~Umaro~~
 
 ### Final Fantasy VII
 * Cloud
