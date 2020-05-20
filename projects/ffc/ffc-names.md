@@ -5,7 +5,9 @@ permalink: /ffc-names/
 author: SDC
 ---
 
-Last Updated: 05 February 2020
+Last Updated: 19 May 2020
+
+Names with a * have special voices requested for them.
 
 ### Final Fantasy I
 * ~~Fighter~~ Sarina
@@ -27,7 +29,7 @@ Last Updated: 05 February 2020
 
 ### Final Fantasy IV[^1]
 * ~~Cecil~~ Sorcil
-* ~~**Kain**~~ Mallow
+* ~~**Kain**~~ Mallow*
 * ~~Rosa~~ MLady
 * ~~Rydia~~ Rydia
 * ~~**Tellah**~~ Oooold
@@ -37,27 +39,27 @@ Last Updated: 05 February 2020
 * ~~Parom~~ Prea
 * ~~Cid~~ DADDY
 * ~~**Edge**~~ Cliff
-* ~~FuSoYa~~ OldFrt
+* ~~FuSoYa~~ OldFrt*
 
 ### Final Fantasy V
-* ~~Bartz~~ RyQuEl Seymour Butz
+* ~~Bartz~~ RyQuEl Seymour Butz*
 
 
 ### Final Fantasy VI
-* ~~Terra~~ 
-* ~~Locke~~ 
-* ~~Celes~~ 
-* ~~Edgar~~ 
-* ~~Sabin~~ 
-* ~~Cyan~~ 
-* ~~Shadow~~ 
-* ~~Gau~~ 
-* ~~Setzer~~ 
-* ~~Strago~~ 
-* ~~Relm~~ 
-* ~~Mog~~ 
-* ~~Gogo~~ 
-* ~~Umaro~~ 
+* ~~Terra~~ Rydia
+* ~~Locke~~ Phouka
+* ~~Celes~~ Fluttr
+* ~~Edgar~~ Choco
+* ~~Sabin~~ Quia*
+* ~~Cyan~~ 00ffff*
+* ~~Shadow~~ Stridr
+* ~~Gau~~ Neko
+* ~~Setzer~~ DADDY
+* ~~Strago~~ OldFrt
+* ~~Relm~~ Wewm*
+* ~~Mog~~ Flfntr*
+* Gogo 
+* ~~Umaro~~ NU
 
 ### Final Fantasy VII
 * ~~Cloud~~
