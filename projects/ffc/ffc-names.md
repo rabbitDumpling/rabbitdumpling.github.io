@@ -44,23 +44,23 @@ Last Updated: 05 February 2020
 
 
 ### Final Fantasy VI
-* ~~Terra~~
-* ~~Locke~~
-* Celes
-* Edgar
-* ~~Sabin~~
-* ~~Cyan~~
-* ~~Shadow~~
-* ~~Gau~~
-* ~~Setzer~~
-* Strago
-* Relm
-* ~~Mog~~
-* ~~Gogo~~
-* ~~Umaro~~
+* ~~Terra~~ 
+* ~~Locke~~ 
+* ~~Celes~~ 
+* ~~Edgar~~ 
+* ~~Sabin~~ 
+* ~~Cyan~~ 
+* ~~Shadow~~ 
+* ~~Gau~~ 
+* ~~Setzer~~ 
+* ~~Strago~~ 
+* ~~Relm~~ 
+* ~~Mog~~ 
+* ~~Gogo~~ 
+* ~~Umaro~~ 
 
 ### Final Fantasy VII
-* Cloud
+* ~~Cloud~~
 * Barret
 * ~~Tifa~~
 * ~~Aerith~~
@@ -71,8 +71,8 @@ Last Updated: 05 February 2020
 * ~~Vincent~~
 
 ### Final Fantasy VIII
-* Squall
-* Rinoa
+* ~~Squall~~
+* ~~Rinoa~~
 * ~~Angelo~~
 * Griever
 * ~~Quezacotl~~
