@@ -58,12 +58,12 @@ Names with a * have special voices requested for them.
 * ~~Strago~~ OldFrt
 * ~~Relm~~ Wewm*
 * ~~Mog~~ Flfntr*
-* Gogo 
+* ~~Gogo~~ Gogurt
 * ~~Umaro~~ NU
 
 ### Final Fantasy VII
 * ~~Cloud~~
-* Barret
+* ~~Barret~~
 * ~~Tifa~~
 * ~~Aerith~~
 * ~~Red XIII~~
