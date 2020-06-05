@@ -53,7 +53,7 @@ Names with a * have special voices requested for them.
 * ~~Sabin~~ Quia*
 * ~~Cyan~~ 00ffff*
 * ~~Shadow~~ Stridr
-* ~~Gau~~ Neko
+* ~~Gau~~ Neko*
 * ~~Setzer~~ DADDY
 * ~~Strago~~ OldFrt
 * ~~Relm~~ Wewm*
@@ -78,9 +78,9 @@ Names with a * have special voices requested for them.
 * ~~Angelo~~
 * Griever
 * ~~Quezacotl~~
-* Shiva
+* ~~Shiva~~
 * Ifrit
-* Siren
+* ~~Siren~~
 * ~~The Brothers~~
 * Diablos
 * ~~Carbuncle~~
@@ -99,15 +99,15 @@ Names with a * have special voices requested for them.
 * ~~Vivi~~
 * ~~Freya~~
 * ~~Amarant~~
-* Garnet
+* ~~Garnet~~
 * ~~Steiner~~
 * ~~Eiko~~
 * ~~Quina~~
 
 ### Final Fantasy X
 * ~~Tidus~~
-* Valefor
-* Ifrit
+* ~~Valefor~~
+* ~~Ifrit~~
 * Ixion
 * ~~Shiva~~
 * ~~Bahamut~~
