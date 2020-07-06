@@ -44,7 +44,6 @@ Names with a * have special voices requested for them.
 ### Final Fantasy V
 * ~~Bartz~~ RyQuEl Seymour Butz*
 
-
 ### Final Fantasy VI
 * ~~Terra~~ Rydia
 * ~~Locke~~ Phouka
@@ -76,7 +75,7 @@ Names with a * have special voices requested for them.
 * ~~Squall~~
 * ~~Rinoa~~
 * ~~Angelo~~
-* Griever
+* ~~Griever~~ Kate
 * ~~Quezacotl~~
 * ~~Shiva~~
 * Ifrit
@@ -89,7 +88,7 @@ Names with a * have special voices requested for them.
 * ~~Cerberus~~
 * ~~Alexander~~
 * Doomtrain
-* Bahamut
+* ~~Bahamut~~
 * ~~Jumbo Cactaur~~
 * ~~Tonberry King~~
 * Eden
